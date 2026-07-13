@@ -1,0 +1,19 @@
+FIDECOMPRO - AVANCE 2
+Fabián Siles Soto
+
+Cómo ejecutar:
+1. Abra la carpeta Fidecompro_FabianSiles en NetBeans.
+2. Ejecute el proyecto con F6.
+3. En el inicio de sesión puede usar cualquier usuario y contraseña no vacíos.
+
+Funcionalidades incluidas:
+- Inicio de sesión con validación y manejo de excepciones.
+- Menú principal.
+- Registro, consulta, búsqueda, modificación y eliminación de clientes.
+- Registro, consulta, búsqueda, modificación y eliminación de productos.
+- Facturación básica con cliente, producto, cantidad, precio, subtotal y total.
+- Generación de una factura en archivo de texto.
+- Uso de clases, objetos, herencia, polimorfismo, ArrayList e interfaz Swing.
+
+Nota:
+Los datos se mantienen mientras la aplicación está abierta. La serialización y los multihilos son opcionales para este avance y no se incorporaron.
